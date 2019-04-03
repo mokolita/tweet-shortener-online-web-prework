@@ -13,7 +13,8 @@ dictionary = {:hello => "hi"
 end 
 
 def word_substituter(string)
-
+  string.to_a 
+  
 
 
 end 
